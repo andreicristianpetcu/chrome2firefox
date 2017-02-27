@@ -35,3 +35,5 @@
 =======================================================================
 [Unofficial saml_message_decoder](/chrom2firefox/addons/unofficial_saml_message_decoder-1.0.1-an+fx.xpi)
 =======================================================================
+[Unofficial HTTPS everywhere](/chrom2firefox/addons/unofficial_https_everywere-2017.2.13-an+fx.xpi)
+=======================================================================
