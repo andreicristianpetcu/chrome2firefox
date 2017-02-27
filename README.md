@@ -1,10 +1,8 @@
 
 [Voldemortinator](/chrom2firefox/addons/voldemortinator-1.14-an+fx.xpi)
 =======================================================================
-
 [Unofficial Reddit Enhancement Suite](/chrom2firefox/addons/unofficial_reddit_enhancement_suite-5.4.3-an+fx.xpi)
 =======================================================================
-
 [Unofficial productivity_dashboard](/chrom2firefox/addons/newtab/unofficialbeautab_productivity_dashboard-1.0.27-an+fx.xpi)
 =======================================================================
 [Unofficial belimitless](/chrom2firefox/addons/newtab/unofficialbelimitless-1.3.3-an+fx.xpi)
