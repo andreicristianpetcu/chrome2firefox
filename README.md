@@ -35,3 +35,7 @@
 =======================================================================
 [Unofficial HTTPS everywhere](/chrom2firefox/addons/unofficial_https_everywere-2017.2.13-an+fx.xpi)
 =======================================================================
+[Unofficial Google translate](/chrom2firefox/addons/unofficial_google_translate-2.0.6-an+fx.xpi)
+=======================================================================
+[Unofficial Sidebar Tabs](/chrom2firefox/addons/unofficial_sidebar_tabs-1.0-an+fx.xpi)
+=======================================================================
