@@ -39,3 +39,5 @@
 =======================================================================
 [Unofficial Sidebar Tabs](/chrom2firefox/addons/unofficial_sidebar_tabs-1.0-an+fx.xpi)
 =======================================================================
+[Unofficial betterttv](/chrom2firefox/addons/unofficial_betterttv-6.9-an+fx.xpi)
+=======================================================================
