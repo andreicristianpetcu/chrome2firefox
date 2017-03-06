@@ -9,7 +9,7 @@ This page is still a work in progress :D
 
 I converted a few Chrome extensions to Firefox WebExtensions and here is the list:
 
-## [Free Software](https://en.m.wikipedia.org/wiki/Free_software) ones
+## [Free Software](https://en.m.wikipedia.org/wiki/Free_software) WebExtensions
 
 [Unofficial Reddit Enhancement Suite](/chrome2firefox/addons/unofficial_reddit_enhancement_suite-5.4.3-an+fx.xpi) - [Upstream issue](https://github.com/honestbleeps/Reddit-Enhancement-Suite/issues/3510)
 
@@ -17,7 +17,10 @@ I converted a few Chrome extensions to Firefox WebExtensions and here is the lis
 
 [Unofficial Sidebar Tabs](/chrome2firefox/addons/unofficial_sidebar_tabs-1.0-an+fx.xpi)
 
-## [Freeware](https://en.m.wikipedia.org/wiki/Freeware) ones
+[Unofficial discourse forum notifications](/chrome2firefox/addons/unofficial_discourse_forum_notifications-1.1.4-an+fx.xpi)
+
+
+## [Freeware](https://en.m.wikipedia.org/wiki/Freeware) WebExtensions
 
 [Voldemortinator](/chrome2firefox/addons/voldemortinator-1.14-an+fx.xpi)
 
