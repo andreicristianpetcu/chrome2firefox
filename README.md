@@ -15,10 +15,9 @@ I converted a few Chrome extensions to Firefox WebExtensions and here is the lis
 
 [Unofficial HTTPS everywhere](/chrome2firefox/addons/unofficial_https_everywere-2017.2.13-an+fx.xpi) - [Upstream issue](https://github.com/EFForg/https-everywhere/issues/7389#issuecomment-255483554)
 
+[Unofficial discourse forum notifications](/chrome2firefox/addons/unofficial_discourse_forum_notifications-1.1.4-an+fx.xpi) - [Upstream issue](https://github.com/alepolidori/chrome-discourse-notifications/issues/26)
+
 [Unofficial Sidebar Tabs](/chrome2firefox/addons/unofficial_sidebar_tabs-1.0-an+fx.xpi)
-
-[Unofficial discourse forum notifications](/chrome2firefox/addons/unofficial_discourse_forum_notifications-1.1.4-an+fx.xpi)
-
 
 ## [Freeware](https://en.m.wikipedia.org/wiki/Freeware) WebExtensions
 
