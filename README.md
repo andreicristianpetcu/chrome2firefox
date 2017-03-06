@@ -56,5 +56,3 @@ I converted a few Chrome extensions to Firefox WebExtensions and here is the lis
 [Unofficial Google translate](/chrome2firefox/addons/unofficial_google_translate-2.0.6-an+fx.xpi)
 
 [Unofficial betterttv](/chrome2firefox/addons/unofficial_betterttv-6.9-an+fx.xpi)
-
-[Unofficial chrome side tabs](/chrome2firefox/addons/unofficial_chrome_side_tabs-2.0.3-an+fx.xpi)
