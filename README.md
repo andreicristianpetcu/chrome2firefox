@@ -19,6 +19,8 @@ I converted a few Chrome extensions to Firefox WebExtensions and here is the lis
 
 [Unofficial Sidebar Tabs](/chrome2firefox/addons/unofficial_sidebar_tabs-1.0-an+fx.xpi)
 
+[Unofficial signed embeded webextension ublock origin](/chrome2firefox/addons/unofficial_signed_embeded_webextension_ublock_origin-1.11.3b1-fx.xpi) - this is an legacy addon with an embeded web extension. It's not yet a full webextension.
+
 ## [Freeware](https://en.m.wikipedia.org/wiki/Freeware) WebExtensions
 
 [Voldemortinator](/chrome2firefox/addons/voldemortinator-1.14-an+fx.xpi)
