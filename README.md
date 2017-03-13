@@ -17,12 +17,12 @@ I converted a few Chrome extensions to Firefox WebExtensions and here is the lis
 
 [Unofficial discourse forum notifications](/chrome2firefox/addons/unofficial_discourse_forum_notifications-1.1.4-an+fx.xpi) - [Upstream issue](https://github.com/alepolidori/chrome-discourse-notifications/issues/26)
 
-[Unofficial The Great Suspender](/chrome2firefox/addons/unofficial_the_great_suspender-6.21-an+fx.xpi)
+[Unofficial The Great Suspender](/chrome2firefox/addons/unofficial_the_great_suspender-6.21-an+fx.xpi) - Upstream issues [one](https://github.com/deanoemcke/thegreatsuspender/issues/266) [two](https://github.com/deanoemcke/thegreatsuspender/issues/373) and [tree](https://github.com/deanoemcke/thegreatsuspender/issues/409)
 
 
 [Unofficial Sidebar Tabs](/chrome2firefox/addons/unofficial_sidebar_tabs-1.0-an+fx.xpi)
 
-[Unofficial signed embeded webextension ublock origin](/chrome2firefox/addons/unofficial_signed_embeded_webextension_ublock_origin-1.11.3b1-fx.xpi) - this is an legacy addon with an embeded web extension. It's not yet a full webextension.
+[Unofficial signed embeded webextension ublock origin](/chrome2firefox/addons/unofficial_signed_embeded_webextension_ublock_origin-1.11.3b1-fx.xpi) - this is an legacy addon with an embeded web extension. It's not yet a full webextension yet.
 
 
 ## [Freeware](https://en.m.wikipedia.org/wiki/Freeware) WebExtensions
