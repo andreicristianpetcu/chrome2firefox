@@ -22,7 +22,7 @@ I converted a few Chrome extensions to Firefox WebExtensions and here is the lis
 
 [Unofficial Sidebar Tabs](/chrome2firefox/addons/unofficial_sidebar_tabs-1.0-an+fx.xpi)
 
-[VueJS DevTools](/chrome2firefox/addons/vuejs_devtools-3.1.2-an+fx.xpi)
+[Unofficial VueJS DevTools](/chrome2firefox/addons/unofficial_vuejs_devtools-3.1.2-an+fx.xpi) - [Upstream issue](https://github.com/vuejs/vue-devtools/issues/57)
 
 [Unofficial signed embeded webextension ublock origin](/chrome2firefox/addons/unofficial_signed_embeded_webextension_ublock_origin-1.11.3b1-fx.xpi) - this is an legacy addon with an embeded web extension. It's not yet a full webextension yet.
 
