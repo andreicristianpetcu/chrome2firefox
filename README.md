@@ -4,6 +4,11 @@ This page is still a work in progress :D
 
 [Available Unofficial WebExtensions](#UnofficialWebExtensions)
 
+#Official addons that are now in AMO
+
+[Sidebar Tabs](https://addons.mozilla.org/en-US/firefox/addon/sidebar-tabs-webextension/)
+
+
 #Available Unofficial WebExtensions <a name="UnofficialWebExtensions"></a>
 
 
@@ -19,8 +24,6 @@ I converted a few Chrome extensions to Firefox WebExtensions and here is the lis
 
 [Unofficial The Great Suspender](/chrome2firefox/addons/unofficial_the_great_suspender-6.21-an+fx.xpi) - Upstream issues [one](https://github.com/deanoemcke/thegreatsuspender/issues/266) [two](https://github.com/deanoemcke/thegreatsuspender/issues/373) and [tree](https://github.com/deanoemcke/thegreatsuspender/issues/409)
 
-
-[Unofficial Sidebar Tabs](/chrome2firefox/addons/unofficial_sidebar_tabs-1.0-an+fx.xpi)
 
 [Unofficial VueJS DevTools](/chrome2firefox/addons/unofficial_vuejs_devtools-3.1.2-an+fx.xpi) - [Upstream issue](https://github.com/vuejs/vue-devtools/issues/57)
 
