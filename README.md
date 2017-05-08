@@ -29,6 +29,7 @@ I converted a few Chrome extensions to Firefox WebExtensions and here is the lis
 
 [Unofficial signed embeded webextension ublock origin](/chrome2firefox/addons/unofficial_signed_embeded_webextension_ublock_origin-1.11.3b1-fx.xpi) - this is an legacy addon with an embeded web extension. It's not yet a full webextension yet.
 
+[Google Translate This Page](/chrome2firefox/addons/my_web_extensions/google_translate_this_page-1.0.0-an+fx.xpi) - This is built by me and is under [review in AMO](https://addons.mozilla.org/en-US/firefox/addon/google-translate-this-page/). Until I manage to pass the review, you can use this unlisted addon.
 
 ## [Freeware](https://en.m.wikipedia.org/wiki/Freeware) WebExtensions
 
